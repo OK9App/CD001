@@ -18,10 +18,10 @@
     width: 100vw;
     height: 100vh;
     position: relative;
-    background: url(../img/bg_ok9_pc.jpg);
+    background: url("/img/background_ok9_pc.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
   }
   
   .background-body {
@@ -450,10 +450,10 @@
       font-size: 0.8em;
       overflow: hidden;
       position: unset;
-      background: url(../img/bg_ok9_mobile.jpg);
-      background-position: center;
+      background: url("/img/background_ok9_mobile.jpg");
+      background-position: bottom;
       background-repeat: no-repeat;
-      background-size: cover;
+      background-size: 100% 100%;
     }
   
     .mobi-main-body {
@@ -465,6 +465,7 @@
   
     .header {
       position: absolute;
+      padding-top: 20px;
       top: 0;
     }
   
@@ -478,7 +479,7 @@
       width: 100%;
       height: auto;
       z-index: 1;
-      bottom: 3%;
+      bottom: 30%;
     }
   
     .content {
