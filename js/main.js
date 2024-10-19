@@ -80,11 +80,11 @@ function addFavorite() {
 
 var headArr, mainArr;
 var jsonLink = [
-    "https://ok9vip9.com/trangchu",
-    "https://ok9vip9.com/trangchu",
-    "https://ok9vip9.com/trangchu",
-    "https://ok9vip9.com/trangchu",
-    "https://ok9vip9.com/trangchu",
+    "https://ok9e.co/trangchu",
+    "https://ok9e.co/trangchu",
+    "https://ok9e.co/trangchu",
+    "https://ok9e.co/trangchu",
+    "https://ok9e.co/trangchu",
 ]
 var jsonData = {
     "success": true,
