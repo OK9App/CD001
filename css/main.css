@@ -82,7 +82,7 @@ body {
 }
 
 .header .logo {
-  max-width: 285px;
+  max-width: 500px;
   padding-top: 5px;
   width: 100%;
   height: auto;
@@ -462,7 +462,8 @@ body {
   }
 
   .header .logo {
-    width: 60%;
+    margin-top: 30px;
+    width: 75%;
   }
 
   .main {
